@@ -1,4 +1,4 @@
-# sistema_Inventarios
+# Sistema de Inventarios
 Sistema de inventarios en la nube para microempresas, con modelo de suscripción mensual.
 
 ![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
@@ -58,4 +58,4 @@ Pendiente
 [LinkedIn](https://www.linkedin.com/in/john-alexander-carrillo-rodriguez-b72320153/) · [GitHub](https://github.com/JohnCa404)
 
 ## Licencia
-Por definir.
+Todos los derechos reservados © 2026 John Alexander Carrillo Rodríguez.
